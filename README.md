@@ -1,4 +1,4 @@
-# Local Data App
+# Taskify
 
 A Flutter application for managing and storing data locally on your device. This app provides a simple and efficient way to handle local data storage using various persistence methods.
 
