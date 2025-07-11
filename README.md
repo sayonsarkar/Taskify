@@ -2,6 +2,10 @@
 
 A Flutter application for managing and storing data locally on your device. This app provides a simple and efficient way to handle local data storage using various persistence methods.
 
+## 📦 Download
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge)](https://github.com/yourusername/yourrepo/releases/latest)
+
 ## Features
 
 - Local data storage using SQLite database
