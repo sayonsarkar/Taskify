@@ -4,7 +4,7 @@ A Flutter application for managing and storing data locally on your device. This
 
 ## 📦 Download
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge)]([https://github.com/yourusername/yourrepo/releases/latest](https://github.com/sayonsarkar/Taskify/releases/tag/release-main))
+[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge)](https://github.com/sayonsarkar/Taskify/releases/tag/release-main)
 
 ## Features
 
